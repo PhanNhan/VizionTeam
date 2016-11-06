@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 5569892cd20d4f448a0c28c59d6f796e
+timeCreated: 1477406895
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group00344
+    100004: Group00344_MeshPart0
+    100006: Group00344_MeshPart1
+    100008: Group0036767
+    100010: Group1
+    100012: Group11
+    100014: Group12
+    100016: Group13
+    100018: Group1_MeshPart0
+    100020: Group1_MeshPart1
+    100022: Group1_MeshPart2
+    100024: Group6
+    100026: La_Falegnami_Havana
+    100028: Line35293
+    100030: Line35294
+    100032: Line35295
+    100034: Line35296
+    100036: Line35297
+    100038: Object786
+    100040: Object786_MeshPart0
+    100042: Object786_MeshPart1
+    400000: //RootNode
+    400002: Group00344
+    400004: Group00344_MeshPart0
+    400006: Group00344_MeshPart1
+    400008: Group0036767
+    400010: Group1
+    400012: Group11
+    400014: Group12
+    400016: Group13
+    400018: Group1_MeshPart0
+    400020: Group1_MeshPart1
+    400022: Group1_MeshPart2
+    400024: Group6
+    400026: La_Falegnami_Havana
+    400028: Line35293
+    400030: Line35294
+    400032: Line35295
+    400034: Line35296
+    400036: Line35297
+    400038: Object786
+    400040: Object786_MeshPart0
+    400042: Object786_MeshPart1
+    2300000: Group00344_MeshPart0
+    2300002: Group00344_MeshPart1
+    2300004: Group0036767
+    2300006: Group11
+    2300008: Group12
+    2300010: Group13
+    2300012: Group1_MeshPart0
+    2300014: Group1_MeshPart1
+    2300016: Group1_MeshPart2
+    2300018: Group6
+    2300020: La_Falegnami_Havana
+    2300022: Line35293
+    2300024: Line35294
+    2300026: Line35295
+    2300028: Line35296
+    2300030: Line35297
+    2300032: Object786_MeshPart0
+    2300034: Object786_MeshPart1
+    3300000: Group00344_MeshPart0
+    3300002: Group00344_MeshPart1
+    3300004: Group0036767
+    3300006: Group11
+    3300008: Group12
+    3300010: Group13
+    3300012: Group1_MeshPart0
+    3300014: Group1_MeshPart1
+    3300016: Group1_MeshPart2
+    3300018: Group6
+    3300020: La_Falegnami_Havana
+    3300022: Line35293
+    3300024: Line35294
+    3300026: Line35295
+    3300028: Line35296
+    3300030: Line35297
+    3300032: Object786_MeshPart0
+    3300034: Object786_MeshPart1
+    4300000: Group00344_MeshPart0
+    4300002: Group00344_MeshPart1
+    4300004: Group0036767
+    4300006: Group1_MeshPart0
+    4300008: Group1_MeshPart1
+    4300010: Group1_MeshPart2
+    4300012: Group11
+    4300014: Group12
+    4300016: Group13
+    4300018: Group6
+    4300020: La_Falegnami_Havana
+    4300022: Line35293
+    4300024: Line35294
+    4300026: Line35295
+    4300028: Line35296
+    4300030: Line35297
+    4300032: Object786_MeshPart0
+    4300034: Object786_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
